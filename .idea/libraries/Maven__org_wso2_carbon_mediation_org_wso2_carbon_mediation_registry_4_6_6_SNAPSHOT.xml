@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.carbon.mediation:org.wso2.carbon.mediation.registry:4.6.6-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.mediation.registry/4.6.6-SNAPSHOT/org.wso2.carbon.mediation.registry-4.6.6-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.mediation.registry/4.6.6-SNAPSHOT/org.wso2.carbon.mediation.registry-4.6.6-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/carbon/mediation/org.wso2.carbon.mediation.registry/4.6.6-SNAPSHOT/org.wso2.carbon.mediation.registry-4.6.6-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

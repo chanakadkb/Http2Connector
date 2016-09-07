@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.wso2.orbit.org.eclipse.jetty:jetty-bundle:8.1.17.v20150415.wso2v1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/orbit/org/eclipse/jetty/jetty-bundle/8.1.17.v20150415.wso2v1/jetty-bundle-8.1.17.v20150415.wso2v1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/orbit/org/eclipse/jetty/jetty-bundle/8.1.17.v20150415.wso2v1/jetty-bundle-8.1.17.v20150415.wso2v1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wso2/orbit/org/eclipse/jetty/jetty-bundle/8.1.17.v20150415.wso2v1/jetty-bundle-8.1.17.v20150415.wso2v1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
